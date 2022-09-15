@@ -2,6 +2,8 @@
 
 Gload to see you here! ![visitors](https://visitor-badge.glitch.me/badge?page_id=${your.username}.${your.repo.id})
 
+I am a passionate software engineer. I love the problem solving and being creative aspect of programming. I have developed skills in: JavaScript, Python, React, Redux, Flask, Express, SQLAlchemy, and Sequelize, etc. I am exited to learn many other new things in the future. 
+
 ## My Stats
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=huifeng248&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
