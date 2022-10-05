@@ -1,6 +1,6 @@
 ### Hi there, I am Abby Feng 👋 
 
-Gload to see you here! ![visitors](https://visitor-badge.glitch.me/badge?page_id=${your.username}.${your.repo.id})
+Gload to see you here! 
 
 I am a passionate software engineer. I love the problem solving and being creative aspect of programming. I have developed skills in: JavaScript, Python, React, Redux, Flask, Express, SQLAlchemy, and Sequelize, etc. I am exited to learn many other new things in the future. 
 
